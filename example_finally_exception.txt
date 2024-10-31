@@ -1,0 +1,2 @@
+This file will trigger an exception.
+Attempting to divide by zero.
